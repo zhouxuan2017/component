@@ -1,0 +1,30 @@
+body,html{
+  margin:0;
+  padding:0;
+  width:100%;
+  height:100%
+}
+.title{
+  margin-left:45%;
+ text-align:center;
+ font-size:14px
+ }
+ .handsontable td, .handsontable th{
+   height:30px;
+   line-height:30px;
+   text-align:center;
+   width:180px;
+  
+ }
+ .main{
+   margin-left:22%;
+ }
+ #shang{
+  width:60%;
+  height:50%;
+  padding-top:30px;
+  margin:0 auto;
+
+ }
+
+
